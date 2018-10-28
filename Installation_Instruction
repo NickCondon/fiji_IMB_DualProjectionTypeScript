@@ -1,0 +1,10 @@
+Installation Guide:
+1. Download the .ijm file to your computer
+2. Navigate to the plugins folder within your build of ImageJ/FIJI
+	Mac: Right-click on the Icon and select view package contents
+	Windows: Open the FIJI folder (usually in C:/
+3. Create a new folder called “My Scripts” (or whatever you prefer)
+4. Move the .ijm file into this folder
+5. Re-start FIJI (or open it if it wasn’t running).
+6. Check that the “My Scripts” (or equivalent) sub-category has been created under the “Plugins” Menu. (Hint: it will be in the lower items towards the bottom).
+7. Check that the script has been installed.
